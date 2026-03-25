@@ -1,0 +1,2 @@
+pyserial>=3.5
+cantools>=39.0.0
